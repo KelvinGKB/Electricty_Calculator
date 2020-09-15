@@ -1,0 +1,9 @@
+==========================
+ELECTRICITY BILL'S RECEIPT
+==========================
+ELECTIRICTY TYPE :COMMERCIAL
+USAGE            :200
+SUB TOTAL        :RM63.6
+TAX (10%)        :RM6.36
+-------------------------
+TOTAL            :RM69.96

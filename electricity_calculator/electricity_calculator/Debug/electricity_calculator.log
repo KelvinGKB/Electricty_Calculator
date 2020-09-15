@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\kengboongoh\source\repos\electricity_calculator\electricity_calculator\main.cpp(184): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kengboongoh\source\repos\electricity_calculator\electricity_calculator\main.cpp(189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kengboongoh\source\repos\electricity_calculator\electricity_calculator\main.cpp(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kengboongoh\source\repos\electricity_calculator\electricity_calculator\main.cpp(322): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kengboongoh\source\repos\electricity_calculator\electricity_calculator\main.cpp(327): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kengboongoh\source\repos\electricity_calculator\electricity_calculator\main.cpp(328): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kengboongoh\source\repos\electricity_calculator\electricity_calculator\main.cpp(241): warning C4101: 'option': unreferenced local variable
+  electricity_calculator.vcxproj -> C:\Users\kengboongoh\source\repos\electricity_calculator\Debug\electricity_calculator.exe
